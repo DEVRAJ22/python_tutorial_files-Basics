@@ -1,0 +1,7 @@
+print("@YourCalculator")
+print("")
+print("please enter first number")
+var1 = input()
+print("please enter second number")
+var2 = input()
+print("The sum of this two number is\n", var1, "+", var2, "=", int(var1)+int(var2))
